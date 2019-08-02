@@ -1,0 +1,49 @@
+.jumbotron.top{
+    text-align: center;
+    color: #393232;
+    font-weight: 700;
+    background-image: url("./images/hitman.jpeg");
+    height: 250px;
+    font-family: 'Lacquer', sans-serif;
+    margin-bottom: 0px;
+}
+.jumbotron1.bottom{
+    text-align: center;
+    background-color: #393232;
+    font-family: 'Lacquer', sans-serif;
+    color: darkred;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+.card-img-top{
+    width: 200px;
+    height: 250px;
+}
+.bg-light{
+    background-color: #393232;
+}
+.card{
+    flex-flow: row;
+}
+.founder{
+    width: 400px;
+    height: 335px;
+}
+.col{
+    font-family: 'Lacquer', sans-serif;
+}
+#Origin{
+    text-align: center;
+    background-color: #393232;
+    font-family: 'Lacquer', sans-serif;
+    color: darkred;
+}
+.navbar{
+    background-color: #393232;
+}
+.navbar-brand{
+    font-family: 'Lacquer', sans-serif;
+}
+.nav-link{
+    font-family: 'Lacquer', sans-serif;
+}
